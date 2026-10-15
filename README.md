@@ -32,8 +32,8 @@ To build a successful career in technology by developing innovative software sol
 - Infosys Springboard – Python Fundamentals.
 - Infosys Springboard – Programming in C.
 - Infosys Springboard – Cloud Computing.
-
-- 🌟 Mentorship & Leadership Development
+  
+🌟 Mentorship & Leadership Development
 - – Had the opportunity to participate as a student in a mentoring session led by Dr. Irai Anbu, IAS,
    gaining valuable exposure to learning, personal growth, and future career aspirations.
 
