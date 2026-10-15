@@ -1,16 +1,63 @@
-## Hi there 👋
+Hi, I'm Sathya Shree 👋
 
-<!--
-**SathyaShree-ZellaVerse/SathyaShree-ZellaVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year B.E. Electrical and Electronics Engineering Student at V.S.B Engineering College, Karur.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.E. in Electrical and Electronics Engineering.
+- 💻 Interested in programming, software development, and engineering innovation.
+- 🚀 Building practical projects that solve real-world problems.
+- 🎨 Creative person who enjoys art, craft, dancing, and poem writing.
+- 🌱 Always eager to learn new technologies and improve my skills.
+
+🎯 Career Goal
+
+To build a successful career in technology by developing innovative software solutions, strengthening my programming skills, and applying technology to solve real-world engineering problems.
+
+🛠️ Technical Skills
+
+- Programming Languages: C, Python, Java
+- Web Technologies: HTML, CSS
+- Tools: Git, GitHub
+- Core Skills: Problem Solving, Creative Thinking, Teamwork
+
+🚀 Projects
+
+- ArcSafe Studio – An Electrical Safety Analysis Web Application.
+- IoT-Based Smart Helmet for Two-Wheeler Rider Safety – A rider safety project using sensors and a microcontroller.
+
+🏆 Achievements & Certifications
+
+- TNPL (Tamil Nadu Newsprint and Papers Limited) – Internship Completed.
+- Infosys Springboard – Python Fundamentals.
+- Infosys Springboard – Programming in C.
+- Infosys Springboard – Cloud Computing.
+
+- 🌟 Mentorship & Leadership Development
+- – Had the opportunity to participate as a student in a mentoring session led by Dr. Irai Anbu, IAS,
+   gaining valuable exposure to learning, personal growth, and future career aspirations.
+
+🌟 Other Skills & Talents
+
+- 🎨 Art & Craft
+- 💃 Dancing
+- 🎬 Basic Video Editing
+- 💡 Creative Thinking
+- 🤝 Teamwork & Collaboration
+- 🧩 Problem Solving
+- ✍️ Poem Writing
+
+🌱 Currently Learning
+
+- Java Programming
+- Web Development
+- Problem Solving
+- Software Project Development
+
+✨ Interests
+
+Software Development | Engineering Innovation | Creativity | Continuous Learning
+
+---
+
+⭐ Learning, creating, and growing one step at a time.
